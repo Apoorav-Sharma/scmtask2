@@ -605,7 +605,7 @@ body {
               <li><a href="#food">Category</a></li>
               <li><a href="#food-menu">Menu</a></li>
               <li><a href="#testimonials">Testimonial</a></li>
-              <li><a href="#contact">Contact</a></li>
+              <li><a href="#contact"></a></li>
           </ul>
           <h1 class="logo">FreshLeaf Café </h1>
       </div>
@@ -820,10 +820,30 @@ We’re on a simple, soul-satisfying mission to radiate positively delicious vib
         </div>
       </div>
     </section>
-    
+    </section>
+    <section id="contact">
+      <div class="contact-container container">
+        <div class="contact-img">
+          <img src="https://i.postimg.cc/1XvYM67V/restraunt2.jpg" alt="" />
+        </div>
+
+        <div class="form-container">
+          <h2>Contact Us</h2>
+          <input type="text" placeholder="Your Name" />
+          <input type="email" placeholder="E-Mail" />
+          <textarea
+            cols="30"
+            rows="6"
+            placeholder="Type Your Message"
+          ></textarea>
+          <a href="#" class="btn btn-primary">Submit</a>
+        </div>
+      </div>
+    </section>
     <footer id="footer">
       <h2>Restraunt &copy; all rights reserved</h2>
     </footer>
+
   </body>
     <!-- 
     .................../ JS Code for smooth scrolling /...................... -->
