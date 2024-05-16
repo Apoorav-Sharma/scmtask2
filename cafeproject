@@ -787,6 +787,8 @@ body {
               <li><a href="#food-menu">Menu</a></li>
               <li><a href="#testimonials">Testimonial</a></li>
               <li><a href="#contact">Contact Us</a></li>
+	                    <li><a href="index.html">Sign up</a></li>
+
           </ul>
           <h1 class="logo">FreshLeaf Café </h1>
       </div>
