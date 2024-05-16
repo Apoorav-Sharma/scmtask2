@@ -606,6 +606,8 @@ body {
               <li><a href="#food-menu">Menu</a></li>
               <li><a href="#testimonials">Testimonial</a></li>
               <li><a href="#contact">Contact</a></li>
+	      <li><a href="index.html">Login</a></li>
+
           </ul>
           <h1 class="logo">FreshLeaf Café </h1>
       </div>
@@ -634,7 +636,7 @@ We’re on a simple, soul-satisfying mission to radiate positively delicious vib
         </div>
       </div>
     </section>
-        <section id="food">
+             <section id="food">
       <h2>Types of food</h2>
       <br> <br>
       <div class="food-container container">
@@ -642,9 +644,9 @@ We’re on a simple, soul-satisfying mission to radiate positively delicious vib
           <div class="img-container">
             <img src="https://i.postimg.cc/yxThVPXk/food1.jpg" alt="error" />
             <div class="img-content">
-              <h3>fruits</h3>
+              <h3>Fruits</h3>
               <a
-                href="https://en.wikipedia.org/wiki/Fruit"
+                href="fruit.html"
                 class="btn btn-primary"
                 target="blank"
                 >learn more</a
@@ -652,13 +654,13 @@ We’re on a simple, soul-satisfying mission to radiate positively delicious vib
             </div>
           </div>
         </div>
-        <div class="food-type vegetable">
+        <div class="food-type coffee">
           <div class="img-container">
-            <img src="https://i.postimg.cc/Nffm6Rkk/food2.jpg" alt="error" />
+            <img src="ccoffee.jpg" alt="error" />
             <div class="img-content">
-              <h3>vegetables</h3>
+              <h3>Coffee</h3>
               <a
-                href="https://en.wikipedia.org/wiki/Vegetable"
+                href="coffee.html"
                 class="btn btn-primary"
                 target="blank"
                 >learn more</a
@@ -666,13 +668,13 @@ We’re on a simple, soul-satisfying mission to radiate positively delicious vib
             </div>
           </div>
         </div>
-        <div class="food-type grain">
+        <div class="food-type tea">
           <div class="img-container">
-            <img src="https://i.postimg.cc/76ZwsPsd/food3.jpg" alt="error" />
+            <img src="ctea.jpg" alt="error" />
             <div class="img-content">
-              <h3>grains</h3>
+              <h3>Tea</h3>
               <a
-                href="https://en.wikipedia.org/wiki/Grain"
+                href="tea.html"
                 class="btn btn-primary"
                 target="blank"
                 >learn more</a
